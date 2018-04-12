@@ -15,7 +15,7 @@
 		<comment>-insert comment-</comment>
 		<clrmamepro/>
 	</header>
-	<machine name="1943mii">
+	<game name="1943mii">
 		<description>1943 - The Battle of Midway Mark II (US)</description>
 		<year>1987</year>
 		<manufacturer>Capcom</manufacturer>
@@ -56,14 +56,14 @@
 		<rom name="bmk08.bin" size="256" crc="dad17e2d"/>
 		<rom name="bmprom.04" size="256" crc="91a8a2e1"/>
 		<rom name="bmprom.06" size="256" crc="0eaf5158"/>
-	</machine>
-	<machine name="acpsx">
+	</game>
+	<game name="acpsx">
 		<description>Acclaim PSX</description>
 		<year>1996</year>
 		<manufacturer>Acclaim</manufacturer>
 		<rom name="coh1000a.bin" size="524288" crc="8d8d0764"/>
-	</machine>
-	<machine name="airattck">
+	</game>
+	<game name="airattck">
 		<description>Air Attack (set 1)</description>
 		<year>1996</year>
 		<manufacturer>Comad</manufacturer>
@@ -79,8 +79,8 @@
 		<rom name="9.uw9" size="524288" crc="86e59966"/>
 		<rom name="uc10.bin" size="131072" crc="1837d4ba"/>
 		<rom name="ue10.bin" size="131072" crc="71deb9d8"/>
-	</machine>
-	<machine name="airattcka">
+	</game>
+	<game name="airattcka">
 		<description>Air Attack (set 2)</description>
 		<year>1996</year>
 		<manufacturer>Comad</manufacturer>
@@ -96,8 +96,8 @@
 		<rom name="82s129.ug6" size="256" crc="cfdbb86c"/>
 		<rom name="82s147.uh6" size="512" crc="ed0bd072"/>
 		<rom name="9.uw9" size="524288" crc="86e59966"/>
-	</machine>
-	<machine name="arescue">
+	</game>
+	<game name="arescue">
 		<description>Air Rescue</description>
 		<year>1992</year>
 		<manufacturer>Sega</manufacturer>
@@ -122,8 +122,8 @@
 		<rom name="mpr14510.22" size="524288" crc="5ea6d52d"/>
 		<rom name="mpr14511.26" size="524288" crc="074c53cc"/>
 		<rom name="mpr14512.31" size="524288" crc="9da48051"/>
-	</machine>
-	<machine name="asurabus">
+	</game>
+	<game name="asurabus">
 		<description>Asura Buster - Eternal Warriors</description>
 		<year>2000</year>
 		<manufacturer>Fuuki</manufacturer>
@@ -146,8 +146,8 @@
 		<rom name="spcd.u19" size="4194304" crc="99bfbe32"/>
 		<rom name="spef.u20" size="4194304" crc="c9c799cc"/>
 		<rom name="srom.u7" size="524288" crc="368da389"/>
-	</machine>
-	<machine name="baryon">
+	</game>
+	<game name="baryon">
 		<description>Baryon - Future Assault</description>
 		<year>1997</year>
 		<manufacturer>Other</manufacturer>
@@ -163,8 +163,8 @@
 		<rom name="8.bin" size="131072" crc="fdbb08b0"/>
 		<rom name="9.bin" size="2097152" crc="28bf828f"/>
 		<rom name="protdata.bin" size="1725" crc="117f32a8"/>
-	</machine>
-	<machine name="bbbuster">
+	</game>
+	<game name="bbbuster">
 		<description>Bang Bang Busters</description>
 		<year>1994</year>
 		<manufacturer>Visco</manufacturer>
@@ -174,8 +174,8 @@
 		<rom name="071-p1.bin" size="524288" crc="7687197d"/>
 		<rom name="071-s1.bin" size="131072" crc="44e5f154"/>
 		<rom name="071-v1.bin" size="1048576" crc="50feffb0"/>
-	</machine>
-	<machine name="bloodwar">
+	</game>
+	<game name="bloodwar">
 		<description>Blood Warrior</description>
 		<year>1994</year>
 		<manufacturer>Kaneko</manufacturer>
@@ -207,8 +207,8 @@
 		<rom name="dox3.124" size="131072" crc="399f2005"/>
 		<rom name="p1f3.513" size="524288" crc="894ecbe5"/>
 		<rom name="pof3.514" size="524288" crc="0c93da15"/>
-	</machine>
-	<machine name="bonkadv">
+	</game>
+	<game name="bonkadv">
 		<description>Bonk's Adventure</description>
 		<year>1994</year>
 		<manufacturer>Kaneko</manufacturer>
@@ -226,8 +226,8 @@
 		<rom name="pc700107.43" size="524288" crc="bfe21c44"/>
 		<rom name="prg.7" size="524288" crc="a1cc6a78"/>
 		<rom name="prg.8" size="524288" crc="af2e60f8"/>
-	</machine>
-	<machine name="boogwing">
+	</game>
+	<game name="boogwing">
 		<description>Boogie Wings (Euro v1.5)</description>
 		<year>1992</year>
 		<manufacturer>Data East Corporation</manufacturer>
@@ -250,8 +250,8 @@
 		<rom name="mbd-08.19b" size="2097152" crc="f13b1e56"/>
 		<rom name="mbd-09.16p" size="524288" crc="f44f2f87"/>
 		<rom name="mbd-10.17p" size="524288" crc="f159f76a"/>
-	</machine>
-	<machine name="boogwinga">
+	</game>
+	<game name="boogwinga">
 		<description>Boogie Wings (Asia v1.5)</description>
 		<year>1992</year>
 		<manufacturer>Data East Corporation</manufacturer>
@@ -274,8 +274,8 @@
 		<rom name="mbd-08.19b" size="2097152" crc="f13b1e56"/>
 		<rom name="mbd-09.16p" size="524288" crc="f44f2f87"/>
 		<rom name="mbd-10.17p" size="524288" crc="f159f76a"/>
-	</machine>
-	<machine name="brapboys">
+	</game>
+	<game name="brapboys">
 		<description>B.Rap Boys (World)</description>
 		<year>1992</year>
 		<manufacturer>Kaneko</manufacturer>
@@ -296,8 +296,8 @@
 		<rom name="rb-030.u61" size="131072" crc="ccbe9a53"/>
 		<rom name="rb-031.u62" size="131072" crc="c72b8dda"/>
 		<rom name="rb-040.u33" size="131072" crc="757c6e19"/>
-	</machine>
-	<machine name="brapboysj">
+	</game>
+	<game name="brapboysj">
 		<description>B.Rap Boys Special (Japan)</description>
 		<year>1992</year>
 		<manufacturer>Kaneko</manufacturer>
@@ -319,8 +319,8 @@
 		<rom name="rb-024.u79" size="524288" crc="65fa6447"/>
 		<rom name="rb-025.u4" size="524288" crc="aa795ba5"/>
 		<rom name="rb-026.u5" size="524288" crc="bb7604d4"/>
-	</machine>
-	<machine name="bubbobr1">
+	</game>
+	<game name="bubbobr1">
 		<description>Bubble Bobble (US)</description>
 		<year>1986</year>
 		<manufacturer>Taito America Corporation (Romstar license)</manufacturer>
@@ -342,8 +342,8 @@
 		<rom name="a78-19.34" size="32768" crc="66e9438c"/>
 		<rom name="a78-20.35" size="32768" crc="9ef863ad"/>
 		<rom name="a78-21.52" size="65536" crc="2844033d"/>
-	</machine>
-	<machine name="bublbobl">
+	</game>
+	<game name="bublbobl">
 		<description>Bubble Bobble</description>
 		<year>1986</year>
 		<manufacturer>Taito Corporation</manufacturer>
@@ -365,8 +365,8 @@
 		<rom name="a78-18.33" size="32768" crc="9f243b68"/>
 		<rom name="a78-19.34" size="32768" crc="66e9438c"/>
 		<rom name="a78-20.35" size="32768" crc="9ef863ad"/>
-	</machine>
-	<machine name="bublbobr">
+	</game>
+	<game name="bublbobr">
 		<description>Bubble Bobble (US with mode select)</description>
 		<year>1986</year>
 		<manufacturer>Taito America Corporation (Romstar license)</manufacturer>
@@ -388,8 +388,8 @@
 		<rom name="a78-20.35" size="32768" crc="9ef863ad"/>
 		<rom name="a78-24.52" size="65536" crc="b7afedc4"/>
 		<rom name="a78-25.51" size="32768" crc="2d901c9d"/>
-	</machine>
-	<machine name="cabal">
+	</game>
+	<game name="cabal">
 		<description>Cabal (World, Joystick version)</description>
 		<year>1988</year>
 		<manufacturer>Tad Corporation</manufacturer>
@@ -418,8 +418,8 @@
 		<rom name="sp_rom6.bin" size="65536" crc="581a50c1"/>
 		<rom name="sp_rom7.bin" size="65536" crc="55c44764"/>
 		<rom name="sp_rom8.bin" size="65536" crc="702735c9"/>
-	</machine>
-	<machine name="cabala">
+	</game>
+	<game name="cabala">
 		<description>Cabal (Alpha Trading)</description>
 		<year>1989</year>
 		<manufacturer>Tad Corporation (Alpha Trading license)</manufacturer>
@@ -434,8 +434,8 @@
 		<rom name="epr-a-9.7h" size="65536" crc="00abbe0c"/>
 		<rom name="tad-1.5e" size="524288" crc="8324a7fe"/>
 		<rom name="tad-2.7s" size="524288" crc="13ca7ae1"/>
-	</machine>
-	<machine name="cabalus">
+	</game>
+	<game name="cabalus">
 		<description>Cabal (US set 1, Trackball version)</description>
 		<year>1988</year>
 		<manufacturer>Tad (Fabtek license)</manufacturer>
@@ -452,8 +452,8 @@
 		<rom name="t6_128.bin" size="16384" crc="1ccee214"/>
 		<rom name="tad-1.5e" size="524288" crc="8324a7fe"/>
 		<rom name="tad-2.7s" size="524288" crc="13ca7ae1"/>
-	</machine>
-	<machine name="cabalus2">
+	</game>
+	<game name="cabalus2">
 		<description>Cabal (US set 2, Trackball version)</description>
 		<year>1988</year>
 		<manufacturer>Tad (Fabtek license)</manufacturer>
@@ -470,8 +470,8 @@
 		<rom name="prom10.4j" size="256" crc="261c93bc"/>
 		<rom name="tad-1.5e" size="524288" crc="8324a7fe"/>
 		<rom name="tad-2.7s" size="524288" crc="13ca7ae1"/>
-	</machine>
-	<machine name="candance">
+	</game>
+	<game name="candance">
 		<description>Cannon Dancer (Japan)</description>
 		<year>1996</year>
 		<manufacturer>Mitchell</manufacturer>
@@ -483,8 +483,8 @@
 		<rom name="mcf-05.12f" size="2097152" crc="f007d376"/>
 		<rom name="sa00-0.1e" size="524288" crc="ec6b3257"/>
 		<rom name="sa01-0.13h" size="262144" crc="cea8368e"/>
-	</machine>
-	<machine name="ccastlej">
+	</game>
+	<game name="ccastlej">
 		<description>Crystal Castles (joystick version)</description>
 		<year>1983</year>
 		<manufacturer>Atari</manufacturer>
@@ -495,8 +495,8 @@
 		<rom name="ccastles.106" size="8192" crc="9d1d89fc"/>
 		<rom name="ccastles.107" size="8192" crc="39960b7d"/>
 		<rom name="e000.14m" size="8192" crc="3beec4f3"/>
-	</machine>
-	<machine name="chainrec">
+	</game>
+	<game name="chainrec">
 		<description>Chain Reaction (World, Version 2.2)</description>
 		<year>1995</year>
 		<manufacturer>Data East Corporation</manufacturer>
@@ -508,8 +508,8 @@
 		<rom name="u4" size="524288" crc="e304eb32"/>
 		<rom name="u5" size="524288" crc="1b6f01ea"/>
 		<rom name="u6" size="524288" crc="531a56f2"/>
-	</machine>
-	<machine name="charlien">
+	</game>
+	<game name="charlien">
 		<description>Charlie Ninja</description>
 		<year>1995</year>
 		<manufacturer>Mitchell</manufacturer>
@@ -519,8 +519,8 @@
 		<rom name="mbr-03.14h" size="1048576" crc="c448a68a"/>
 		<rom name="nd00-1.1e" size="524288" crc="f18f4b23"/>
 		<rom name="nd01-0.13h" size="262144" crc="635a100a"/>
-	</machine>
-	<machine name="chinagat">
+	</game>
+	<game name="chinagat">
 		<description>China Gate (US)</description>
 		<year>1988</year>
 		<manufacturer>[Technos] (Taito Romstar license)</manufacturer>
@@ -540,8 +540,8 @@
 		<rom name="a1-15" size="65536" crc="2f268f37"/>
 		<rom name="cgate18.bin" size="131072" crc="8d88d64d"/>
 		<rom name="cgate51.bin" size="131072" crc="439a3b19"/>
-	</machine>
-	<machine name="countrb2">
+	</game>
+	<game name="countrb2">
 		<description>Counter Run (bootleg set 2)</description>
 		<year>1988</year>
 		<manufacturer>bootleg</manufacturer>
@@ -559,8 +559,8 @@
 		<rom name="prom4.bpr" size="256" crc="217db2c1"/>
 		<rom name="prom5.bpr" size="256" crc="63c114ad"/>
 		<rom name="prom6.bpr" size="256" crc="33e87550"/>
-	</machine>
-	<machine name="countrnb">
+	</game>
+	<game name="countrnb">
 		<description>Counter Run (bootleg set 1)</description>
 		<year>1988</year>
 		<manufacturer>bootleg</manufacturer>
@@ -578,8 +578,8 @@
 		<rom name="prom5.bpr" size="256" crc="63c114ad"/>
 		<rom name="prom6.bpr" size="256" crc="33e87550"/>
 		<rom name="rom_cpu.bin" size="65536" crc="f65639ae"/>
-	</machine>
-	<machine name="crswd2bl">
+	</game>
+	<game name="crswd2bl">
 		<description>Crossed Swords 2</description>
 		<year>1996</year>
 		<manufacturer>bootleg</manufacturer>
@@ -589,8 +589,8 @@
 		<rom name="054-p1.p1" size="2097152" crc="64836147"/>
 		<rom name="054-s1.s1" size="131072" crc="22e02ddd"/>
 		<rom name="054-v1.v1" size="2097152" crc="22d4b93b"/>
-	</machine>
-	<machine name="cutefght">
+	</game>
+	<game name="cutefght">
 		<description>Cute Fighter</description>
 		<year>1998</year>
 		<manufacturer>Other</manufacturer>
@@ -609,8 +609,8 @@
 		<rom name="8_semicom" size="131072" crc="fccb1b13"/>
 		<rom name="9_semicom" size="65536" crc="0da8db45"/>
 		<rom name="protdata.bin" size="1793" crc="764c3c0e"/>
-	</machine>
-	<machine name="dblewing">
+	</game>
+	<game name="dblewing">
 		<description>Double Wings</description>
 		<year>1993</year>
 		<manufacturer>Mitchell</manufacturer>
@@ -621,8 +621,8 @@
 		<rom name="mbe-00.14a" size="1048576" crc="e33f5c93"/>
 		<rom name="mbe-01.16a" size="1048576" crc="ef452ad7"/>
 		<rom name="mbe-02.8h" size="1048576" crc="5a6d3ac5"/>
-	</machine>
-	<machine name="denjinmk">
+	</game>
+	<game name="denjinmk">
 		<description>Denjin Makai</description>
 		<year>1994</year>
 		<manufacturer>Banpresto</manufacturer>
@@ -643,8 +643,8 @@
 		<rom name="rom7.620" size="65536" crc="e1f759b1"/>
 		<rom name="rom8.615" size="65536" crc="cc36af0d"/>
 		<rom name="s68e08.844" size="512" crc="96f7646e"/>
-	</machine>
-	<machine name="dietgo">
+	</game>
+	<game name="dietgo">
 		<description>Diet Go Go (Euro v1.1)</description>
 		<year>1992</year>
 		<manufacturer>Data East Corporation</manufacturer>
@@ -655,8 +655,8 @@
 		<rom name="may01" size="1048576" crc="2da57d04"/>
 		<rom name="may02" size="1048576" crc="3a66a713"/>
 		<rom name="may03" size="524288" crc="b6e42bae"/>
-	</machine>
-	<machine name="dietgoe">
+	</game>
+	<game name="dietgoe">
 		<description>Diet Go Go (Euro v1.1,1992.08.04)</description>
 		<year>1992</year>
 		<manufacturer>Data East Corporation</manufacturer>
@@ -667,8 +667,8 @@
 		<rom name="may01" size="1048576" crc="2da57d04"/>
 		<rom name="may02" size="1048576" crc="3a66a713"/>
 		<rom name="may03" size="524288" crc="b6e42bae"/>
-	</machine>
-	<machine name="dietgoj">
+	</game>
+	<game name="dietgoj">
 		<description>Diet Go Go (Japan v1.1)</description>
 		<year>1992</year>
 		<manufacturer>Data East Corporation</manufacturer>
@@ -679,8 +679,8 @@
 		<rom name="may01" size="1048576" crc="2da57d04"/>
 		<rom name="may02" size="1048576" crc="3a66a713"/>
 		<rom name="may03" size="524288" crc="b6e42bae"/>
-	</machine>
-	<machine name="dietgou">
+	</game>
+	<game name="dietgou">
 		<description>Diet Go Go (USA v1.1)</description>
 		<year>1992</year>
 		<manufacturer>Data East Corporation</manufacturer>
@@ -691,8 +691,8 @@
 		<rom name="may01" size="1048576" crc="2da57d04"/>
 		<rom name="may02" size="1048576" crc="3a66a713"/>
 		<rom name="may03" size="524288" crc="b6e42bae"/>
-	</machine>
-	<machine name="dkongx">
+	</game>
+	<game name="dkongx">
 		<description>Donkey Kong II: Jumpman Returns (Hack)</description>
 		<year>2008</year>
 		<manufacturer>bootleg</manufacturer>
@@ -712,8 +712,8 @@
 		<rom name="v-5e.bpr" size="256" crc="b869b8f5"/>
 		<rom name="v_3pt.bin" size="2048" crc="15e9c5e9"/>
 		<rom name="v_5h_b.bin" size="2048" crc="12c8c95d"/>
-	</machine>
-	<machine name="dreamwld">
+	</game>
+	<game name="dreamwld">
 		<description>Dream World</description>
 		<year>2000</year>
 		<manufacturer>Other</manufacturer>
@@ -729,8 +729,8 @@
 		<rom name="8.bin" size="131072" crc="8d570df6"/>
 		<rom name="9.bin" size="2097152" crc="fa84e3af"/>
 		<rom name="protdata.bin" size="1737" crc="f284b2fd"/>
-	</machine>
-	<machine name="dynagear">
+	</game>
+	<game name="dynagear">
 		<description>Dyna Gears</description>
 		<year>1994</year>
 		<manufacturer>Sammy</manufacturer>
@@ -746,8 +746,8 @@
 		<rom name="si002-10.u6" size="1048576" crc="e369c177"/>
 		<rom name="si002-prh.u3" size="524288" crc="d0947a12"/>
 		<rom name="si002-prl.u4" size="524288" crc="71ba29c6"/>
-	</machine>
-	<machine name="fireshrk">
+	</game>
+	<game name="fireshrk">
 		<description>Fire Shark</description>
 		<year>1990</year>
 		<manufacturer>Toaplan</manufacturer>
@@ -766,8 +766,8 @@
 		<rom name="o17_12x.bin" size="131072" crc="6adb6eb5"/>
 		<rom name="tp017_13.bpr" size="32" crc="bc88cced"/>
 		<rom name="tp017_14.bpr" size="32" crc="a1e17492"/>
-	</machine>
-	<machine name="fixeighb">
+	</game>
+	<game name="fixeighb">
 		<description>FixEight (Bootleg)</description>
 		<year>1992</year>
 		<manufacturer>Toaplan</manufacturer>
@@ -778,8 +778,8 @@
 		<rom name="5.bin" size="32768" crc="456dd16e"/>
 		<rom name="tp-026-3" size="2097152" crc="e5578d98"/>
 		<rom name="tp-026-4" size="2097152" crc="b760cb53"/>
-	</machine>
-	<machine name="fjbuster">
+	</game>
+	<game name="fjbuster">
 		<description>Fujiyama Buster (Japan)</description>
 		<year>1992</year>
 		<manufacturer>Kaneko</manufacturer>
@@ -799,8 +799,8 @@
 		<rom name="fb030j.u61" size="131072" crc="32ce7909"/>
 		<rom name="fb031j.u62" size="131072" crc="000c8c08"/>
 		<rom name="fb040j.u33" size="131072" crc="299d0746"/>
-	</machine>
-	<machine name="gaialast">
+	</game>
+	<game name="gaialast">
 		<description>Gaia - The Last Choice of Earth</description>
 		<year>1999</year>
 		<manufacturer>Other</manufacturer>
@@ -817,8 +817,8 @@
 		<rom name="8" size="2097152" crc="32d16985"/>
 		<rom name="9_semicom" size="65536" crc="0da8db45"/>
 		<rom name="protdata.bin" size="1737" crc="d3403b7b"/>
-	</machine>
-	<machine name="ghostlop">
+	</game>
+	<game name="ghostlop">
 		<description>Ghostlop (prototype)</description>
 		<year>1996</year>
 		<manufacturer>Data East Corporation</manufacturer>
@@ -828,8 +828,8 @@
 		<rom name="gl-p1.rom" size="1048576" crc="6033172e"/>
 		<rom name="gl-s1.rom" size="131072" crc="83c24e81"/>
 		<rom name="gl-v1.rom" size="2097152" crc="c603fce6"/>
-	</machine>
-	<machine name="glasskr">
+	</game>
+	<game name="glasskr">
 		<description>Glass (Censored, Unprotected)</description>
 		<year>1993</year>
 		<manufacturer>Gaelco</manufacturer>
@@ -839,8 +839,8 @@
 		<rom name="glassk.h9" size="1048576" crc="d499be4c"/>
 		<rom name="h11.bin" size="2097152" crc="c6ac41c8"/>
 		<rom name="h13.bin" size="2097152" crc="13ab7f31"/>
-	</machine>
-	<machine name="gnbarich">
+	</game>
+	<game name="gnbarich">
 		<description>Gunbarich</description>
 		<year>2001</year>
 		<manufacturer>Psikyo</manufacturer>
@@ -855,8 +855,8 @@
 		<rom name="9h.u42" size="2097152" crc="5433385a"/>
 		<rom name="9l.u41" size="2097152" crc="02c066fe"/>
 		<rom name="snd0.u52" size="2097152" crc="7b10436b"/>
-	</machine>
-	<machine name="gtmr">
+	</game>
+	<game name="gtmr">
 		<description>Great 1000 Miles Rally</description>
 		<year>1994</year>
 		<manufacturer>Kaneko</manufacturer>
@@ -871,8 +871,8 @@
 		<rom name="mms1x2.u30.bin" size="131072" crc="b42b426f"/>
 		<rom name="u1.bin" size="524288" crc="6238790a"/>
 		<rom name="u2.bin" size="524288" crc="031799f7"/>
-	</machine>
-	<machine name="hachamf">
+	</game>
+	<game name="hachamf">
 		<description>Hacha Mecha Fighter</description>
 		<year>1991</year>
 		<manufacturer>NMK</manufacturer>
@@ -884,8 +884,8 @@
 		<rom name="91076-3.45" size="524288" crc="b25ed93b"/>
 		<rom name="91076-4.101" size="1048576" crc="df9653a4"/>
 		<rom name="91076-8.57" size="1048576" crc="7fd0f556"/>
-	</machine>
-	<machine name="hachamfb">
+	</game>
+	<game name="hachamfb">
 		<description>Hacha Mecha Fighter (unprotected)</description>
 		<year>1991</year>
 		<manufacturer>bootleg</manufacturer>
@@ -897,8 +897,8 @@
 		<rom name="91076-3.45" size="524288" crc="b25ed93b"/>
 		<rom name="91076-4.101" size="1048576" crc="df9653a4"/>
 		<rom name="91076-8.57" size="1048576" crc="7fd0f556"/>
-	</machine>
-	<machine name="hcrash">
+	</game>
+	<game name="hcrash">
 		<description>Hyper Crash (version D)</description>
 		<year>1987</year>
 		<manufacturer>Konami</manufacturer>
@@ -909,8 +909,8 @@
 		<rom name="790-c09.n2" size="32768" crc="a68a8cce"/>
 		<rom name="790-d03.t9" size="32768" crc="10177dce"/>
 		<rom name="790-d06.t7" size="32768" crc="fca5ab3e"/>
-	</machine>
-	<machine name="hcrashc">
+	</game>
+	<game name="hcrashc">
 		<description>Hyper Crash (version C)</description>
 		<year>1987</year>
 		<manufacturer>Konami</manufacturer>
@@ -921,8 +921,8 @@
 		<rom name="790-c06.t7" size="32768" crc="1d641a86"/>
 		<rom name="790-c08.j4" size="32768" crc="cfb844bc"/>
 		<rom name="790-c09.n2" size="32768" crc="a68a8cce"/>
-	</machine>
-	<machine name="hookj">
+	</game>
+	<game name="hookj">
 		<description>Hook (Japan)</description>
 		<year>1992</year>
 		<manufacturer>Irem</manufacturer>
@@ -941,8 +941,8 @@
 		<rom name="hook-c2.rom" size="262144" crc="a52b320b"/>
 		<rom name="hook-c3.rom" size="262144" crc="7ef67731"/>
 		<rom name="hook-da.rom" size="524288" crc="88cd0212"/>
-	</machine>
-	<machine name="hsf2a">
+	</game>
+	<game name="hsf2a">
 		<description>Hyper Street Fighter II: The Anniversary Edition (Asia 040202)</description>
 		<year>2004</year>
 		<manufacturer>Capcom</manufacturer>
@@ -963,8 +963,8 @@
 		<rom name="hs2a.07" size="524288" crc="ee4420fc"/>
 		<rom name="hs2ax.03" size="524288" crc="5f3d7397"/>
 		<rom name="hs2ax.04" size="524288" crc="59acf108"/>
-	</machine>
-	<machine name="hydrap">
+	</game>
+	<game name="hydrap">
 		<description>Hydra (prototype 5/14/90)</description>
 		<year>1990</year>
 		<manufacturer>Atari Games</manufacturer>
@@ -1010,8 +1010,8 @@
 		<rom name="hydr2038.bin" size="65536" crc="a2eda15b"/>
 		<rom name="hydr2039.bin" size="65536" crc="eb9eaeb7"/>
 		<rom name="hydraa0.bin" size="65536" crc="619d7319"/>
-	</machine>
-	<machine name="hydrap2">
+	</game>
+	<game name="hydrap2">
 		<description>Hydra (prototype 5/25/90)</description>
 		<year>1990</year>
 		<manufacturer>Atari Games</manufacturer>
@@ -1057,8 +1057,8 @@
 		<rom name="hydr1025.bin" size="65536" crc="98b5b1a1"/>
 		<rom name="hydr1026.bin" size="65536" crc="d68d44aa"/>
 		<rom name="hydr1027.bin" size="131072" crc="f9135b9b"/>
-	</machine>
-	<machine name="inyourfa">
+	</game>
+	<game name="inyourfa">
 		<description>In Your Face (US, prototype)</description>
 		<year>1991</year>
 		<manufacturer>Jaleco</manufacturer>
@@ -1085,8 +1085,8 @@
 		<rom name="22.27c1001" size="131072" crc="1dc040d2"/>
 		<rom name="23.27c1001" size="131072" crc="50478530"/>
 		<rom name="prom.14m" size="512" crc="1341ba02"/>
-	</machine>
-	<machine name="ironclad">
+	</game>
+	<game name="ironclad">
 		<description>Choutetsu Brikin'ger - iron clad (prototype)</description>
 		<year>1996</year>
 		<manufacturer>Saurus</manufacturer>
@@ -1098,22 +1098,22 @@
 		<rom name="220-p1.bin" size="2097152" crc="62a942c6"/>
 		<rom name="220-s1.bin" size="131072" crc="372fe217"/>
 		<rom name="220-v1.bin" size="4194304" crc="8f30a215"/>
-	</machine>
-	<machine name="jdredd">
+	</game>
+	<game name="jdredd">
 		<description>Judge Dredd (Rev C)</description>
 		<year>1996</year>
 		<manufacturer>Acclaim</manufacturer>
 		<rom name="j-dread.u35" size="131072" crc="c1e17191"/>
 		<rom name="j-dread.u36" size="131072" crc="37addbf9"/>
-	</machine>
-	<machine name="jdreddb">
+	</game>
+	<game name="jdreddb">
 		<description>Judge Dredd (Rev B)</description>
 		<year>1996</year>
 		<manufacturer>Acclaim</manufacturer>
 		<rom name="j-dread.u35" size="131072" crc="c1e17191"/>
 		<rom name="j-dread.u36" size="131072" crc="37addbf9"/>
-	</machine>
-	<machine name="joemacr">
+	</game>
+	<game name="joemacr">
 		<description>Joe &amp; Mac Returns (World, Version 1.1)</description>
 		<year>1994</year>
 		<manufacturer>Data East Corporation</manufacturer>
@@ -1124,8 +1124,8 @@
 		<rom name="mbn02" size="524288" crc="aa2230c5"/>
 		<rom name="mbn03" size="2097152" crc="70b71a2a"/>
 		<rom name="mbn04" size="262144" crc="dcbd4771"/>
-	</machine>
-	<machine name="joemacra">
+	</game>
+	<game name="joemacra">
 		<description>Joe &amp; Mac Returns (World, Version 1.0)</description>
 		<year>1994</year>
 		<manufacturer>Data East Corporation</manufacturer>
@@ -1135,8 +1135,8 @@
 		<rom name="mbn03" size="2097152" crc="70b71a2a"/>
 		<rom name="mbn04" size="262144" crc="dcbd4771"/>
 		<rom name="mw00" size="524288" crc="e1b78f40"/>
-	</machine>
-	<machine name="kbash2">
+	</game>
+	<game name="kbash2">
 		<description>Knuckle Bash 2</description>
 		<year>1999</year>
 		<manufacturer>Toaplan</manufacturer>
@@ -1146,8 +1146,8 @@
 		<rom name="mecat-34" size="4194304" crc="6be7b37e"/>
 		<rom name="mecat-m" size="524288" crc="bd2263c6"/>
 		<rom name="mecat-s" size="524288" crc="3eb7adf4"/>
-	</machine>
-	<machine name="killbld">
+	</game>
+	<game name="killbld">
 		<description>The Killing Blade (ver. 109, Chinese Board)</description>
 		<year>1998</year>
 		<manufacturer>IGS</manufacturer>
@@ -1164,8 +1164,8 @@
 		<rom name="kb_u2.rom" size="65536" crc="de3eae63"/>
 		<rom name="m0300.u1" size="4194304" crc="93159695"/>
 		<rom name="t0300.u14" size="4194304" crc="0922f7d9"/>
-	</machine>
-	<machine name="kof2001">
+	</game>
+	<game name="kof2001">
 		<description>The King of Fighters 2001</description>
 		<year>2001</year>
 		<manufacturer>Eolith</manufacturer>
@@ -1185,8 +1185,8 @@
 		<rom name="262-v4.bin" size="4194304" crc="26ec4dd9"/>
 		<rom name="265-262-m1.bin" size="131072" crc="1d5aab51"/>
 		<rom name="265-262_decrypted-m1.bin" size="131072" crc="2fb0a8a5"/>
-	</machine>
-	<machine name="kof2002">
+	</game>
+	<game name="kof2002">
 		<description>The King of Fighters 2002</description>
 		<year>2002</year>
 		<manufacturer>Eolith</manufacturer>
@@ -1204,8 +1204,8 @@
 		<rom name="265-p2.bin" size="4194304" crc="327266b8"/>
 		<rom name="265-v1.bin" size="8388608" crc="15e8f3f5"/>
 		<rom name="265-v2.bin" size="8388608" crc="da41d6f9"/>
-	</machine>
-	<machine name="lasthope">
+	</game>
+	<game name="lasthope">
 		<description>Last Hope</description>
 		<year>2005</year>
 		<manufacturer>NG:DEV.TEAM</manufacturer>
@@ -1219,8 +1219,8 @@
 		<rom name="ngdt-300-v1.bin" size="2097152" crc="b765bafe"/>
 		<rom name="ngdt-300-v2.bin" size="2097152" crc="9fd0d559"/>
 		<rom name="ngdt-300-v3.bin" size="2097152" crc="6d5107e2"/>
-	</machine>
-	<machine name="magdrop">
+	</game>
+	<game name="magdrop">
 		<description>Magical Drop (Japan, Version 1.1)</description>
 		<year>1995</year>
 		<manufacturer>Data East Corporation</manufacturer>
@@ -1231,8 +1231,8 @@
 		<rom name="mcc-03" size="1048576" crc="da2ebba0"/>
 		<rom name="mcc-04" size="262144" crc="86ee6ade"/>
 		<rom name="re00-2.e1" size="524288" crc="7138f10f"/>
-	</machine>
-	<machine name="magdropp">
+	</game>
+	<game name="magdropp">
 		<description>Magical Drop Plus 1 (Japan, Version 2.1)</description>
 		<year>1995</year>
 		<manufacturer>Data East Corporation</manufacturer>
@@ -1243,8 +1243,8 @@
 		<rom name="mcc-03" size="1048576" crc="da2ebba0"/>
 		<rom name="mcc-04" size="262144" crc="86ee6ade"/>
 		<rom name="rz00-1.e1" size="524288" crc="28caf639"/>
-	</machine>
-	<machine name="matrim">
+	</game>
+	<game name="matrim">
 		<description>Power Instinct Matrimelee</description>
 		<year>2003</year>
 		<manufacturer>Atlus / Noise Factory</manufacturer>
@@ -1262,8 +1262,8 @@
 		<rom name="266-p2.bin" size="4194304" crc="a14b1906"/>
 		<rom name="266-v1.bin" size="8388608" crc="a4f83690"/>
 		<rom name="266-v2.bin" size="8388608" crc="d0f69eda"/>
-	</machine>
-	<machine name="mslug4">
+	</game>
+	<game name="mslug4">
 		<description>Metal Slug 4</description>
 		<year>2002</year>
 		<manufacturer>Mega</manufacturer>
@@ -1279,8 +1279,8 @@
 		<rom name="263-p2.bin" size="4194304" crc="fdb7aed8"/>
 		<rom name="263-v1.bin" size="8388608" crc="01e9b9cd"/>
 		<rom name="263-v2.bin" size="8388608" crc="4ab2bf81"/>
-	</machine>
-	<machine name="mslug5">
+	</game>
+	<game name="mslug5">
 		<description>Metal Slug 5</description>
 		<year>2003</year>
 		<manufacturer>Snk Playmore</manufacturer>
@@ -1298,8 +1298,8 @@
 		<rom name="268-p2cr.bin" size="4194304" crc="fbf6b61e"/>
 		<rom name="268-v1c.bin" size="8388608" crc="ae31d60c"/>
 		<rom name="268-v2c.bin" size="8388608" crc="c40613ed"/>
-	</machine>
-	<machine name="mustache">
+	</game>
+	<game name="mustache">
 		<description>Mustache Boy</description>
 		<year>1987</year>
 		<manufacturer>[Seibu Kaihatsu] (March license)</manufacturer>
@@ -1318,8 +1318,8 @@
 		<rom name="mustache.h16" size="16384" crc="62552beb"/>
 		<rom name="mustache.h18" size="32768" crc="123bd9b8"/>
 		<rom name="t5182.rom" size="8192" crc="d354c8fc"/>
-	</machine>
-	<machine name="nbajamex">
+	</game>
+	<game name="nbajamex">
 		<description>NBA Jam Extreme</description>
 		<year>1996</year>
 		<manufacturer>Acclaim</manufacturer>
@@ -1342,8 +1342,8 @@
 		<rom name="nbax6o.u5" size="2097152" crc="b1dfb42e"/>
 		<rom name="sound0.u48" size="2097152" crc="38873b67"/>
 		<rom name="sound1.u49" size="2097152" crc="57014589"/>
-	</machine>
-	<machine name="nslasherj">
+	</game>
+	<game name="nslasherj">
 		<description>Night Slashers (Japan Rev 1.2)</description>
 		<year>1994</year>
 		<manufacturer>Data East Corporation</manufacturer>
@@ -1362,8 +1362,8 @@
 		<rom name="mbh-10.14l" size="524288" crc="c4d6b116"/>
 		<rom name="mbh-11.16l" size="524288" crc="0ec40b6b"/>
 		<rom name="sndprg.17l" size="65536" crc="18939e92"/>
-	</machine>
-	<machine name="nslashers">
+	</game>
+	<game name="nslashers">
 		<description>Night Slashers (Over Sea Rev 1.2)</description>
 		<year>1994</year>
 		<manufacturer>Data East Corporation</manufacturer>
@@ -1382,8 +1382,8 @@
 		<rom name="mbh-10.14l" size="524288" crc="c4d6b116"/>
 		<rom name="mbh-11.16l" size="524288" crc="0ec40b6b"/>
 		<rom name="sndprg.17l" size="65536" crc="18939e92"/>
-	</machine>
-	<machine name="olds">
+	</game>
+	<game name="olds">
 		<description>Oriental Legend Special / Xi You Shi E Zhuan Super (ver. 101, Korean Board)</description>
 		<year>1998</year>
 		<manufacturer>IGS</manufacturer>
@@ -1407,8 +1407,8 @@
 		<rom name="sp_v101.u6" size="65536" crc="097046bc"/>
 		<rom name="t0500.rom" size="4194304" crc="d881726c"/>
 		<rom name="t0501.rom" size="2097152" crc="d2106864"/>
-	</machine>
-	<machine name="olds103t">
+	</game>
+	<game name="olds103t">
 		<description>Oriental Legend Special / Xi You Shi E Zhuan Super (ver. 103, China, Tencent) (unprotected)</description>
 		<year>1998</year>
 		<manufacturer>IGS</manufacturer>
@@ -1427,8 +1427,8 @@
 		<rom name="p0500.v103" size="4194304" crc="17e32e14"/>
 		<rom name="t0500.rom" size="4194304" crc="d881726c"/>
 		<rom name="t0501.rom" size="2097152" crc="d2106864"/>
-	</machine>
-	<machine name="omega">
+	</game>
+	<game name="omega">
 		<description>Omega</description>
 		<manufacturer>bootleg?</manufacturer>
 		<rom name="a6331-1j.86" size="32" crc="24652bc4"/>
@@ -1440,8 +1440,8 @@
 		<rom name="omega4.bin" size="2048" crc="42068171"/>
 		<rom name="omega5.bin" size="2048" crc="d8a93383"/>
 		<rom name="omega6.bin" size="2048" crc="32a42f44"/>
-	</machine>
-	<machine name="osman">
+	</game>
+	<game name="osman">
 		<description>Osman (World)</description>
 		<year>1996</year>
 		<manufacturer>Mitchell</manufacturer>
@@ -1453,8 +1453,8 @@
 		<rom name="mcf-05.12f" size="2097152" crc="f007d376"/>
 		<rom name="sa00-0.1e" size="524288" crc="ec6b3257"/>
 		<rom name="sa01-0.13h" size="262144" crc="cea8368e"/>
-	</machine>
-	<machine name="packbang">
+	</game>
+	<game name="packbang">
 		<description>Pack'n Bang Bang (prototype)</description>
 		<year>1994</year>
 		<manufacturer>Kaneko</manufacturer>
@@ -1470,8 +1470,8 @@
 		<rom name="bbp1x3.u39" size="131072" crc="465d36f5"/>
 		<rom name="bw000.u46" size="262144" crc="d8fe869d"/>
 		<rom name="pb_spr_ext_9_20_ver.u83" size="262144" crc="666a1217"/>
-	</machine>
-	<machine name="pktgaldj">
+	</game>
+	<game name="pktgaldj">
 		<description>Pocket Gal Deluxe (Japan v3.00)</description>
 		<year>1993</year>
 		<manufacturer>Nihon System</manufacturer>
@@ -1481,8 +1481,8 @@
 		<rom name="maz-01.3b" size="524288" crc="4934fe21"/>
 		<rom name="maz-02.2h" size="1048576" crc="c9d35a59"/>
 		<rom name="maz-03.13f" size="1048576" crc="a313c964"/>
-	</machine>
-	<machine name="pktgaldx">
+	</game>
+	<game name="pktgaldx">
 		<description>Pocket Gal Deluxe (Euro v3.00)</description>
 		<year>1992</year>
 		<manufacturer>Data East Corporation</manufacturer>
@@ -1492,8 +1492,8 @@
 		<rom name="maz-01.3b" size="524288" crc="4934fe21"/>
 		<rom name="maz-02.2h" size="1048576" crc="c9d35a59"/>
 		<rom name="maz-03.13f" size="1048576" crc="a313c964"/>
-	</machine>
-	<machine name="plegends">
+	</game>
+	<game name="plegends">
 		<description>Power Instinct Legends (USA)</description>
 		<year>1995</year>
 		<manufacturer>Atlus/Cave</manufacturer>
@@ -1520,8 +1520,8 @@
 		<rom name="g02.u65" size="2097152" crc="08541878"/>
 		<rom name="g02.u66" size="2097152" crc="becf2a36"/>
 		<rom name="text.u82" size="524288" crc="f57333ea"/>
-	</machine>
-	<machine name="pnyaa">
+	</game>
+	<game name="pnyaa">
 		<description>Pochi &amp; Nyaa</description>
 		<year>2003</year>
 		<manufacturer>Aiky</manufacturer>
@@ -1531,8 +1531,8 @@
 		<rom name="267-m1_decrypted.bin" size="524288" crc="d58eaa8e"/>
 		<rom name="267-p1.bin" size="1048576" crc="112fe2c0"/>
 		<rom name="267-v1.bin" size="4194304" crc="e2e8e917"/>
-	</machine>
-	<machine name="progear">
+	</game>
+	<game name="progear">
 		<description>Progear (US 010117)</description>
 		<year>2001</year>
 		<manufacturer>Cave, distributed by Capcom</manufacturer>
@@ -1553,8 +1553,8 @@
 		<rom name="pgau.04" size="524288" crc="16208d79"/>
 		<rom name="pgaux.03" size="524288" crc="fd58616b"/>
 		<rom name="pgaux.04" size="524288" crc="6081a891"/>
-	</machine>
-	<machine name="progearj">
+	</game>
+	<game name="progearj">
 		<description>Progear No Arashi (Japan 010117)</description>
 		<year>2001</year>
 		<manufacturer>Cave, distributed by Capcom</manufacturer>
@@ -1575,8 +1575,8 @@
 		<rom name="pgaj.04" size="524288" crc="a1f1f1bc"/>
 		<rom name="pgajx.03" size="524288" crc="b44e4bcf"/>
 		<rom name="pgajx.04" size="524288" crc="354db29d"/>
-	</machine>
-	<machine name="puzlstar">
+	</game>
+	<game name="puzlstar">
 		<description>Puzzle Star</description>
 		<year>1999</year>
 		<manufacturer>IGS</manufacturer>
@@ -1586,8 +1586,8 @@
 		<rom name="t0800.u5" size="2097152" crc="f9d84e59"/>
 		<rom name="v100mg.u1" size="524288" crc="5788b77d"/>
 		<rom name="v100mg.u2" size="524288" crc="4c79d979"/>
-	</machine>
-	<machine name="pzloop2j">
+	</game>
+	<game name="pzloop2j">
 		<description>Puzz Loop 2 (Japan 010226)</description>
 		<year>2001</year>
 		<manufacturer>Mitchell, distributed by Capcom</manufacturer>
@@ -1610,8 +1610,8 @@
 		<rom name="pl2jx.04a" size="524288" crc="aa1b28f4"/>
 		<rom name="pl2jx.05a" size="524288" crc="cd27c17d"/>
 		<rom name="pl2jx.06a" size="524288" crc="48f3ac5f"/>
-	</machine>
-	<machine name="ragtime">
+	</game>
+	<game name="ragtime">
 		<description>The Great Ragtime Show (Japan v1.5)</description>
 		<year>1992</year>
 		<manufacturer>Data East Corporation</manufacturer>
@@ -1634,8 +1634,8 @@
 		<rom name="mbd-08.19b" size="2097152" crc="f13b1e56"/>
 		<rom name="mbd-09.16p" size="524288" crc="f44f2f87"/>
 		<rom name="mbd-10.17p" size="524288" crc="f159f76a"/>
-	</machine>
-	<machine name="ragtimea">
+	</game>
+	<game name="ragtimea">
 		<description>The Great Ragtime Show (Japan v1.3)</description>
 		<year>1992</year>
 		<manufacturer>Data East Corporation</manufacturer>
@@ -1658,8 +1658,8 @@
 		<rom name="mbd-08.19b" size="2097152" crc="f13b1e56"/>
 		<rom name="mbd-09.16p" size="524288" crc="f44f2f87"/>
 		<rom name="mbd-10.17p" size="524288" crc="f159f76a"/>
-	</machine>
-	<machine name="riot">
+	</game>
+	<game name="riot">
 		<description>Riot</description>
 		<year>1992</year>
 		<manufacturer>NMK</manufacturer>
@@ -1672,8 +1672,8 @@
 		<rom name="7.ic17" size="65536" crc="0a95b8f3"/>
 		<rom name="8.ic18" size="131072" crc="4b70e266"/>
 		<rom name="9.ic22" size="524288" crc="0ead54f3"/>
-	</machine>
-	<machine name="rockn">
+	</game>
+	<game name="rockn">
 		<description>Rock'n Tread (Japan)</description>
 		<year>1999</year>
 		<manufacturer>Jaleco</manufacturer>
@@ -1699,8 +1699,8 @@
 		<rom name="sound12" size="4194304" crc="aae8d59c"/>
 		<rom name="sound13" size="4194304" crc="9ec1459b"/>
 		<rom name="sound14" size="4194304" crc="b26f9a81"/>
-	</machine>
-	<machine name="rockn2">
+	</game>
+	<game name="rockn2">
 		<description>Rock'n Tread 2 (Japan)</description>
 		<year>1999</year>
 		<manufacturer>Jaleco</manufacturer>
@@ -1733,8 +1733,8 @@
 		<rom name="sound21" size="4194304" crc="13db74bd"/>
 		<rom name="spr0" size="2097152" crc="9d3968cf"/>
 		<rom name="spr1" size="2097152" crc="673ce2c2"/>
-	</machine>
-	<machine name="rockn3">
+	</game>
+	<game name="rockn3">
 		<description>Rock'n 3 (Japan)</description>
 		<year>1999</year>
 		<manufacturer>Jaleco</manufacturer>
@@ -1766,8 +1766,8 @@
 		<rom name="sound20" size="4194304" crc="5f301b83"/>
 		<rom name="spr0" size="2097152" crc="8a61fc18"/>
 		<rom name="spr1" size="2097152" crc="468bf696"/>
-	</machine>
-	<machine name="rockn4">
+	</game>
+	<game name="rockn4">
 		<description>Rock'n 4 (Japan)</description>
 		<year>2000</year>
 		<manufacturer>Jaleco (PCCWJ)</manufacturer>
@@ -1788,8 +1788,8 @@
 		<rom name="sound09" size="4194304" crc="39fa512f"/>
 		<rom name="spr0" size="2097152" crc="3fedddc9"/>
 		<rom name="spr1" size="2097152" crc="5eeae537"/>
-	</machine>
-	<machine name="rockna">
+	</game>
+	<game name="rockna">
 		<description>Rock'n Tread (Japan, alternate)</description>
 		<year>1999</year>
 		<manufacturer>Jaleco</manufacturer>
@@ -1815,8 +1815,8 @@
 		<rom name="sound12" size="4194304" crc="aae8d59c"/>
 		<rom name="sound13" size="4194304" crc="9ec1459b"/>
 		<rom name="sound14" size="4194304" crc="b26f9a81"/>
-	</machine>
-	<machine name="rolcrush">
+	</game>
+	<game name="rolcrush">
 		<description>Rolling Crush</description>
 		<year>1999</year>
 		<manufacturer>Other</manufacturer>
@@ -1831,8 +1831,8 @@
 		<rom name="protdata.bin" size="1861" crc="06b8a880"/>
 		<rom name="tms27c010_6.bin" size="131072" crc="0c9d197a"/>
 		<rom name="tms27c010_7.bin" size="131072" crc="4cb84384"/>
-	</machine>
-	<machine name="rotd">
+	</game>
+	<game name="rotd">
 		<description>Rage of the Dragons</description>
 		<year>2002</year>
 		<manufacturer>Evoga / Playmore</manufacturer>
@@ -1849,8 +1849,8 @@
 		<rom name="264-p1.bin" size="8388608" crc="b8cc969d"/>
 		<rom name="264-v1.bin" size="8388608" crc="fa005812"/>
 		<rom name="264-v2.bin" size="8388608" crc="c3dc8bf0"/>
-	</machine>
-	<machine name="sabotnba">
+	</game>
+	<game name="sabotnba">
 		<description>Saboten Bombers (set 2)</description>
 		<year>1992</year>
 		<manufacturer>NMK / Tecmo</manufacturer>
@@ -1861,8 +1861,8 @@
 		<rom name="ic35.sb3" size="65536" crc="eb7bc99d"/>
 		<rom name="sb1.76" size="262144" crc="df6f65e2"/>
 		<rom name="sb2.75" size="262144" crc="0d2c1ab8"/>
-	</machine>
-	<machine name="saiyugou">
+	</game>
+	<game name="saiyugou">
 		<description>Sai Yu Gou Ma Roku (Japan)</description>
 		<year>1988</year>
 		<manufacturer>Technos</manufacturer>
@@ -1882,8 +1882,8 @@
 		<rom name="a2-13" size="65536" crc="b745cac4"/>
 		<rom name="a2-14" size="65536" crc="aef814c8"/>
 		<rom name="a2-15" size="65536" crc="2f268f37"/>
-	</machine>
-	<machine name="samesam2">
+	</game>
+	<game name="samesam2">
 		<description>Same! Same! Same! (2P Ver.)</description>
 		<year>1989</year>
 		<manufacturer>Toaplan</manufacturer>
@@ -1902,8 +1902,8 @@
 		<rom name="o17_12x.bin" size="131072" crc="6adb6eb5"/>
 		<rom name="tp017_13.bpr" size="32" crc="bc88cced"/>
 		<rom name="tp017_14.bpr" size="32" crc="a1e17492"/>
-	</machine>
-	<machine name="samesame">
+	</game>
+	<game name="samesame">
 		<description>Same! Same! Same!</description>
 		<year>1989</year>
 		<manufacturer>Toaplan</manufacturer>
@@ -1922,8 +1922,8 @@
 		<rom name="o17_12.bin" size="131072" crc="ef698811"/>
 		<rom name="tp017_13.bpr" size="32" crc="bc88cced"/>
 		<rom name="tp017_14.bpr" size="32" crc="a1e17492"/>
-	</machine>
-	<machine name="samsh5sp">
+	</game>
+	<game name="samsh5sp">
 		<description>Samurai Shodown V Special</description>
 		<year>2003</year>
 		<manufacturer>NeoGeo</manufacturer>
@@ -1941,8 +1941,8 @@
 		<rom name="272-p2.bin" size="4194304" crc="63492ea6"/>
 		<rom name="272-v1.bin" size="8388608" crc="76a94127"/>
 		<rom name="272-v2.bin" size="8388608" crc="4ba507f1"/>
-	</machine>
-	<machine name="samsho5">
+	</game>
+	<game name="samsho5">
 		<description>Samurai Shodown V</description>
 		<year>2003</year>
 		<manufacturer>NeoGeo</manufacturer>
@@ -1960,8 +1960,8 @@
 		<rom name="270-p2.bin" size="4194304" crc="e0c74c85"/>
 		<rom name="270-v1.bin" size="8388608" crc="62e434eb"/>
 		<rom name="270-v2.bin" size="8388608" crc="180f3c9a"/>
-	</machine>
-	<machine name="sengoku3">
+	</game>
+	<game name="sengoku3">
 		<description>Sengoku 3</description>
 		<year>2001</year>
 		<manufacturer>Noise Factory</manufacturer>
@@ -1975,8 +1975,8 @@
 		<rom name="261-v2.bin" size="4194304" crc="392a9c47"/>
 		<rom name="261-v3.bin" size="4194304" crc="c1a7ebe3"/>
 		<rom name="261-v4.bin" size="2097152" crc="9000d085"/>
-	</machine>
-	<machine name="shogwarr">
+	</game>
+	<game name="shogwarr">
 		<description>Shogun Warriors</description>
 		<year>1992</year>
 		<manufacturer>Kaneko</manufacturer>
@@ -1996,8 +1996,8 @@
 		<rom name="fb030a.u61" size="131072" crc="a04106c6"/>
 		<rom name="fb031a.u62" size="131072" crc="d1def5e2"/>
 		<rom name="fb040a.u33" size="131072" crc="4b62c4d9"/>
-	</machine>
-	<machine name="sonicbom">
+	</game>
+	<game name="sonicbom">
 		<description>Sonic Boom</description>
 		<year>1987</year>
 		<manufacturer>Sega</manufacturer>
@@ -2019,8 +2019,8 @@
 		<rom name="opr11355.b6" size="65536" crc="fe0fa332"/>
 		<rom name="opr11356.b7" size="65536" crc="aea3c39d"/>
 		<rom name="opr11357.b8" size="65536" crc="a7c5ea41"/>
-	</machine>
-	<machine name="svc">
+	</game>
+	<game name="svc">
 		<description>Snk Vs Capcom : Svc Chaos</description>
 		<year>2003</year>
 		<manufacturer>Snk Playmore</manufacturer>
@@ -2038,8 +2038,8 @@
 		<rom name="269-p2c.bin" size="4194304" crc="6d13797c"/>
 		<rom name="269-v1c.bin" size="8388608" crc="c659b34c"/>
 		<rom name="269-v2c.bin" size="8388608" crc="dd903835"/>
-	</machine>
-	<machine name="svcboot">
+	</game>
+	<game name="svcboot">
 		<description>Snk Vs Capcom : Svc Chaos (Bootleg)</description>
 		<year>2003</year>
 		<manufacturer>Snk Playmore</manufacturer>
@@ -2058,8 +2058,8 @@
 		<rom name="svc-v2.bin" size="4194304" crc="b5097287"/>
 		<rom name="svc-v3.bin" size="4194304" crc="aa9849a0"/>
 		<rom name="svc-v4.bin" size="4194304" crc="33fc0b37"/>
-	</machine>
-	<machine name="tdragon">
+	</game>
+	<game name="tdragon">
 		<description>Thunder Dragon</description>
 		<year>1991</year>
 		<manufacturer>NMK (Tecmo license)</manufacturer>
@@ -2073,8 +2073,8 @@
 		<rom name="91070.9" size="256" crc="cfdbb86c"/>
 		<rom name="91070_68k.7" size="131072" crc="6e154d8e"/>
 		<rom name="91070_68k.8" size="131072" crc="121c3ae7"/>
-	</machine>
-	<machine name="teetert">
+	</game>
+	<game name="teetert">
 		<description>Teeter Torture (prototype)</description>
 		<year>1982</year>
 		<manufacturer>Exidy</manufacturer>
@@ -2092,8 +2092,8 @@
 		<rom name="7a-cpu" size="4096" crc="84491333"/>
 		<rom name="8a-cpu" size="4096" crc="68de66e7"/>
 		<rom name="9a-cpu" size="4096" crc="0cba424d"/>
-	</machine>
-	<machine name="thoop">
+	</game>
+	<game name="thoop">
 		<description>Thunder Hoop</description>
 		<year>1992</year>
 		<manufacturer>Gaelco</manufacturer>
@@ -2104,8 +2104,8 @@
 		<rom name="sound" size="1048576" crc="99f80961"/>
 		<rom name="th161eb4.020" size="262144" crc="6add61ed"/>
 		<rom name="th18dea1.040" size="524288" crc="59bad625"/>
-	</machine>
-	<machine name="titlef">
+	</game>
+	<game name="titlef">
 		<description>Title Fight (World)</description>
 		<year>1992</year>
 		<manufacturer>Sega</manufacturer>
@@ -2123,8 +2123,8 @@
 		<rom name="mpr15381.3" size="2097152" crc="162cc4d6"/>
 		<rom name="mpr15382.11" size="2097152" crc="fd03a130"/>
 		<rom name="mpr15385.1" size="2097152" crc="5a9b0aa0"/>
-	</machine>
-	<machine name="tmekprot">
+	</game>
+	<game name="tmekprot">
 		<description>T-MEK (prototype)</description>
 		<year>1994</year>
 		<manufacturer>Atari Games</manufacturer>
@@ -2166,8 +2166,8 @@
 		<rom name="pgm1" size="131072" crc="284f7971"/>
 		<rom name="pgm2" size="131072" crc="ce9a77d4"/>
 		<rom name="pgm3" size="131072" crc="28b0e210"/>
-	</machine>
-	<machine name="vasara2">
+	</game>
+	<game name="vasara2">
 		<description>Vasara 2 (set 1)</description>
 		<year>2001</year>
 		<manufacturer>Visco</manufacturer>
@@ -2180,8 +2180,8 @@
 		<rom name="prg-l.u30" size="524288" crc="40e6f5f6"/>
 		<rom name="s0.u36" size="2097152" crc="2b381b33"/>
 		<rom name="s1.u37" size="2097152" crc="11cd7098"/>
-	</machine>
-	<machine name="vasara2a">
+	</game>
+	<game name="vasara2a">
 		<description>Vasara 2 (set 2)</description>
 		<year>2001</year>
 		<manufacturer>Visco</manufacturer>
@@ -2194,8 +2194,8 @@
 		<rom name="data.u34" size="2097152" crc="493d0103"/>
 		<rom name="s0.u36" size="2097152" crc="2b381b33"/>
 		<rom name="s1.u37" size="2097152" crc="11cd7098"/>
-	</machine>
-	<machine name="vimana">
+	</game>
+	<game name="vimana">
 		<description>Vimana</description>
 		<year>1991</year>
 		<manufacturer>Toaplan</manufacturer>
@@ -2210,8 +2210,8 @@
 		<rom name="vim4.bin" size="131072" crc="b0515768"/>
 		<rom name="vim5.bin" size="131072" crc="61a63d7a"/>
 		<rom name="vim6.bin" size="131072" crc="2886878d"/>
-	</machine>
-	<machine name="vimana1">
+	</game>
+	<game name="vimana1">
 		<description>Vimana (old set)</description>
 		<year>1991</year>
 		<manufacturer>Toaplan</manufacturer>
@@ -2226,8 +2226,8 @@
 		<rom name="vim4.bin" size="131072" crc="b0515768"/>
 		<rom name="vim5.bin" size="131072" crc="61a63d7a"/>
 		<rom name="vim6.bin" size="131072" crc="2886878d"/>
-	</machine>
-	<machine name="vimanan">
+	</game>
+	<game name="vimanan">
 		<description>Vimana (Nova Apparate GMBH &amp; Co)</description>
 		<year>1991</year>
 		<manufacturer>Toaplan (Nova Apparate GMBH &amp; Co license)</manufacturer>
@@ -2242,8 +2242,8 @@
 		<rom name="vim4.bin" size="131072" crc="b0515768"/>
 		<rom name="vim5.bin" size="131072" crc="61a63d7a"/>
 		<rom name="vim6.bin" size="131072" crc="2886878d"/>
-	</machine>
-	<machine name="wbmlvc">
+	</game>
+	<game name="wbmlvc">
 		<description>Wonder Boy in Monster Land (English, Virtual Console)</description>
 		<year>2009</year>
 		<manufacturer>Sega</manufacturer>
@@ -2262,8 +2262,8 @@
 		<rom name="vc.ic90" size="65536" crc="093c4852"/>
 		<rom name="vc.ic91" size="65536" crc="7e973ece"/>
 		<rom name="vc.ic92" size="32768" crc="32661e7e"/>
-	</machine>
-	<machine name="wingforc">
+	</game>
+	<game name="wingforc">
 		<description>Wing Force (Japan, prototype)</description>
 		<year>1993</year>
 		<manufacturer>Atlus</manufacturer>
@@ -2283,8 +2283,8 @@
 		<rom name="sp2m.u68" size="524288" crc="b5994bda"/>
 		<rom name="sp3m.u20" size="524288" crc="889ddf72"/>
 		<rom name="sp3m.u68" size="524288" crc="889ddf72"/>
-	</machine>
-	<machine name="zintrckb">
+	</game>
+	<game name="zintrckb">
 		<description>Zintrick / Oshidashi Zentrix (hack / bootleg)</description>
 		<year>1996</year>
 		<manufacturer>hack / bootleg</manufacturer>
@@ -2294,8 +2294,8 @@
 		<rom name="zin_p1.rom" size="1048576" crc="06c8fca7"/>
 		<rom name="zin_s1.rom" size="131072" crc="a7ab0e81"/>
 		<rom name="zin_v1.rom" size="2097152" crc="c09f74f1"/>
-	</machine>
-	<machine name="zupapa">
+	</game>
+	<game name="zupapa">
 		<description>Zupapa!</description>
 		<year>2001</year>
 		<manufacturer>SNK</manufacturer>
@@ -2304,5 +2304,5 @@
 		<rom name="070-m1.bin" size="131072" crc="5a3b3191"/>
 		<rom name="070-p1.bin" size="1048576" crc="5a96203e"/>
 		<rom name="070-v1.bin" size="2097152" crc="d3a7e1ff"/>
-	</machine>
+	</game>
 </datafile>
