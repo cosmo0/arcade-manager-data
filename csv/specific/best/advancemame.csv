@@ -1,44 +1,1 @@
-name
-armora
-astdelux
-asteroid
-aztarac
-barrier
-bnzabros
-bwidow
-bzone
-cchasm
-crkdown
-cyberbal
-dcclub
-demon
-destroyr
-elim2
-esb
-gground
-gravitar
-hotrod
-llander
-omegrace
-outrun
-punchout
-quantum
-redbaron
-ripoff
-roughrac
-s1945
-s1945ii
-s1945iii
-spacduel
-spacfury
-spcinv95
-sspirits
-starcas
-starhawk
-startrek
-starwars
-tailg
-tempest
-toobin
-toutrun
-wotw
+name;description;year;manufacturer;is_parent;romof;is_clone;cloneof;sampleofarmora;Armor Attack;1980;Cinematronics;YES;-;NO;-;-astdelux;Asteroids Deluxe (rev 2);1980;Atari;YES;-;NO;-;-asteroid;Asteroids (rev 2);1979;Atari;YES;-;NO;-;-aztarac;Aztarac;1983;Centuri;YES;-;NO;-;-barrier;Barrier;1979;Vectorbeam;YES;-;NO;-;-bnzabros;Bonanza Bros (US, Floppy DS3-5000-07d?);1990;Sega;YES;-;NO;-;-bwidow;Black Widow;1982;Atari;YES;-;NO;-;-bzone;Battle Zone (set 1);1980;Atari;YES;-;NO;-;-cchasm;Cosmic Chasm (set 1);1983;Cinematronics / GCE;YES;-;NO;-;-crkdown;Crack Down (US, FD1094 317-0058-04d);1989;Sega;YES;-;NO;-;-cyberbal;Cyberball (rev 4);1988;Atari Games;YES;-;NO;-;-dcclub;Dynamic Country Club;1991;Sega;YES;-;NO;-;-demon;Demon;1982;Rock-ola;YES;-;NO;-;-destroyr;Destroyer;1977;Atari;YES;-;NO;-;-elim2;Eliminator (2 Players, set 1);1981;Gremlin;YES;-;NO;-;-esb;The Empire Strikes Back;1985;Atari Games;YES;-;NO;-;-gground;Gain Ground (FD1094 317-0058-03?);1988;Sega;YES;-;NO;-;-gravitar;Gravitar (version 3);1982;Atari;YES;-;NO;-;-hotrod;Hot Rod (World, 3 Players, Turbo set 1);1988;Sega;YES;-;NO;-;-llander;Lunar Lander (rev 2);1979;Atari;YES;-;NO;-;-omegrace;Omega Race;1981;Midway;YES;-;NO;-;-outrun;Out Run (set 3);1986;Sega;YES;-;NO;-;-punchout;Punch-Out!!;1984;Nintendo;YES;-;NO;-;-quantum;Quantum (rev 2);1982;Atari;YES;-;NO;-;-redbaron;Red Baron;1980;Atari;YES;-;NO;-;-ripoff;Rip Off;1980;Cinematronics;YES;-;NO;-;-roughrac;Rough Racer (Japan, FD1094 317-0058-06b);1990;Sega;YES;-;NO;-;-s1945;Strikers 1945;1995;Psikyo;YES;-;NO;-;-s1945ii;Strikers 1945 II;1997;Psikyo;YES;-;NO;-;-s1945iii;Strikers 1945 III (World) / Strikers 1999 (Japan);1999;Psikyo;YES;-;NO;-;-spacduel;Space Duel;1980;Atari;YES;-;NO;-;-spacfury;Space Fury (revision C);1981;Sega;YES;-;NO;-;-spcinv95;Space Invaders '95: The Attack Of Lunar Loonies (Ver 2.5O 1995/06/14);1995;Taito Corporation Japan;YES;-;NO;-;-sspirits;Scramble Spirits;1988;Sega;YES;-;NO;-;-starcas;Star Castle (version 3);1980;Cinematronics;YES;-;NO;-;-starhawk;Star Hawk;1979;Cinematronics;YES;-;NO;-;-startrek;Star Trek;1982;Sega;YES;-;NO;-;-starwars;Star Wars (rev 2);1983;Atari;YES;-;NO;-;-tailg;Tailgunner;1979;Cinematronics;YES;-;NO;-;-tempest;Tempest (rev 3);1980;Atari;YES;-;NO;-;-toobin;Toobin' (rev 3);1988;Atari Games;YES;-;NO;-;-toutrun;Turbo Out Run (set 3, upgrade kit, FD1094 317-0118);1989;Sega;YES;-;NO;-;-wotw;War of the Worlds;1981;Cinematronics;YES;-;NO;-;-
