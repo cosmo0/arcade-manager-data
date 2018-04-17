@@ -1,0 +1,9 @@
+name;description;year;manufacturer;is_parent;romof;is_clone;cloneof;sampleof
+astdelux;Asteroids Deluxe (rev 2);1980;Atari;YES;-;NO;-;-
+asteroid;Asteroids (rev 2);1979;Atari;YES;-;NO;-;-
+llander;Lunar Lander (rev 2);1979;Atari;YES;-;NO;-;-
+outrun;Out Run (set 3);1986;Sega;YES;-;NO;-;-
+punchout;Punch-Out!!;1984;Nintendo;YES;-;NO;-;-
+starcas;Star Castle (version 3);1980;Cinematronics;YES;-;NO;-;-
+tempest;Tempest (rev 3);1980;Atari;YES;-;NO;-;-
+toutrun;Turbo Out Run (set 3, upgrade kit, FD1094 317-0118);1989;Sega;YES;-;NO;-;-

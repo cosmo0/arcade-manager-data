@@ -1,0 +1,90 @@
+name;description;year;manufacturer;is_parent;romof;is_clone;cloneof;sasampleof
+1941;1941 - Counter Attack (900227 World);1990;Capcom;YES;-;NO;-;-
+1942;1942 (Revision B);1984;Capcom;YES;-;NO;-;-
+1943;1943: The Battle of Midway (Euro);1987;Capcom;YES;-;NO;-;-
+1944;1944 - the loop master (000620 USA);2000;Capcom / 8ing / Raizing;YES;-;NO;-;-
+19xx;19XX - the war against destiny (951207 USA);1995;Capcom;YES;-;NO;-;-
+abcop;A.B. Cop (World, FD1094 317-0169b);1990;Sega;YES;-;NO;-;-
+aburner2;After Burner II;1987;Sega;YES;-;NO;-;-
+altbeast;Altered Beast (set 8, 8751 317-0078);1988;Sega;YES;-;NO;-;-
+atetris;Tetris (set 1) [No sound];1988;Atari Games;YES;-;NO;-;-
+blktiger;Black Tiger;1987;Capcom;YES;-;NO;-;-
+bombjack;Bomb Jack (set 1);1984;Tehkan;YES;-;NO;-;-
+bouldash;Boulder Dash / Boulder Dash Part 2 (World);1990;Data East Corporation (licensed from First Star);YES;-;NO;-;-
+centiped;Centipede (revision 4);1980;Atari;YES;-;NO;-;-
+congo;Congo Bongo;1983;Sega;YES;-;NO;-;-
+contra;Contra (US / Asia, set 1);1987;Konami;YES;-;NO;-;-
+dariusg;Darius Gaiden - Silver Hawk (Ver 2.5O 1994/09/19);1994;Taito Corporation Japan;YES;-;NO;-;-
+dariusgx;Darius Gaiden - Silver Hawk Extra Version (Ver 2.7J 1995/03/06) (Official Hack);1994;Taito Corporation;YES;-;NO;-;-
+ddragon3;Double Dragon 3 - The Rosetta Stone (US);1990;Technos Japan;YES;-;NO;-;-
+digdug;Dig Dug (rev 2);1982;Namco;YES;-;NO;-;-
+digdug2;Dig Dug II (New Ver.);1985;Namco;YES;-;NO;-;-
+dkong3;Donkey Kong 3 (US);1983;Nintendo of America;YES;-;NO;-;-
+docastle;Mr. Do's Castle (set 1);1983;Universal;YES;-;NO;-;-
+donpachi;DonPachi (USA, ver. 1.12, 95/05/2x);1995;Atlus / Cave;YES;-;NO;-;-
+elvactr;Elevator Action Returns (Ver 2.2O 1995/02/20);1994;Taito Corporation Japan;YES;-;NO;-;-
+fantzone;Fantasy Zone (Rev A, unprotected);1986;Sega;YES;-;NO;-;-
+frogger;Frogger;1981;Konami;YES;-;NO;-;-
+gforce2;Galaxy Force 2;1988;Sega;YES;-;NO;-;-
+gigas;Gigas (MC-8123, 317-5002) [Please use gigasb instead!];1986;SEGA;YES;-;NO;-;-
+goldnaxe;Golden Axe (set 6, US, 8751 317-123A);1989;Sega;YES;-;NO;-;-
+gradius3;Gradius III (World, program code R);1989;Konami;YES;-;NO;-;-
+gyruss;Gyruss (Konami);1983;Konami;YES;-;NO;-;-
+hangon;Hang-On (rev A);1985;Sega;YES;-;NO;-;-
+hangonjr;Hang-On Jr. [Graphics issues on the Game Over screen];1985;Sega;YES;-;NO;-;-
+joemacr;Joe & Mac Returns (World, Version 1.1, 1994.05.27);1994;Data East;YES;-;NO;-;-
+jojo;JoJo's Venture / JoJo no Kimyou na Bouken (USA 990128);1998;Capcom;YES;-;NO;-;-
+jrpacman;Jr. Pac-Man (11/9/83);1983;Bally Midway;YES;-;NO;-;-
+kov2;Knights of Valour 2 (V107, 102, 100, Hong Kong);2000;IGS;YES;pgm;NO;-;-
+kungfum;Kung-Fu Master;1984;Irem;YES;-;NO;-;-
+ladybug;Lady Bug;1981;Universal;YES;-;NO;-;-
+ldrun;Lode Runner (set 1);1984;Irem (licensed from Broderbund);YES;-;NO;-;-
+ldrun2;Lode Runner II - The Bungeling Strikes Back;1984;Irem (licensed from Broderbund);YES;-;NO;-;-
+ldrun4;Lode Runner IV - Teikoku Karano Dasshutsu;1986;Irem (licensed from Broderbund);YES;-;NO;-;-
+mappy;Mappy (US);1983;Namco;YES;-;NO;-;-
+mario;Mario Bros. (US, Revision F) [Imperfect sound];1983;Nintendo of America;YES;-;NO;-;-
+milliped;Millipede;1982;Atari;YES;-;NO;-;-
+mrdo;Mr. Do!;1982;Universal;YES;-;NO;-;-
+mshu;Marvel Super Heroes (951024 USA);1995;Capcom;NO;msh;YES;msh;-
+mspacman;MS Pacman;1980;Namco;YES;-;NO;-;-
+nbamht;NBA Maximum Hangtime (rev 1.03 06/09/97);1996;Midway;YES;-;NO;-;-
+nemesis;Nemesis (ROM version);1985;Konami;YES;-;NO;-;-
+pang;Pang (World);1989;Mitchell;YES;-;NO;-;-
+parodius;Parodius DA! (World, set 1);1990;Konami;YES;-;NO;-;-
+pdrift;Power Drift (World, Rev A) [Select Auto-Center preset in Input Configuration];1988;Sega;YES;-;NO;-;-
+pengo;Pengo (set 1 rev c);1982;Sega;YES;-;NO;-;-
+phoenix;Phoenix (Amstar);1980;Amstar;YES;-;NO;-;-
+pitfall2;Pitfall II (315-5093);1985;Sega;YES;-;NO;-;-
+raiden;Raiden (set 1);1990;Seibu Kaihatsu;YES;-;NO;-;-
+raiden2;Raiden II (US, set 1);1993;Seibu Kaihatsu (Fabtek license);YES;-;NO;-;-
+rallyx;Rally X (32k Ver.?);1980;Namco;YES;-;NO;-;-
+rthun2;Rolling Thunder 2;1990;Namco;YES;-;NO;-;-
+rthunder;Rolling Thunder (rev 3);1986;Namco;YES;-;NO;-;-
+rtype2;R-Type II;1989;Irem;YES;-;NO;-;-
+rygar;Rygar (US set 1);1986;Tecmo;YES;-;NO;-;-
+salamand;Salamander (version D);1986;Konami;YES;-;NO;-;-
+sci;Special Criminal Investigation (World set 1);1989;Taito Corporation Japan;YES;-;NO;-;-
+scontra;Super Contra;1988;Konami;YES;-;NO;-;-
+scramble;Scramble;1981;Konami;YES;-;NO;-;-
+sf;Street Fighter (US, set 1);1987;Capcom;YES;-;NO;-;-
+sfiii2;Street Fighter III 2nd Impact: Giant Attack (USA 970930);1997;Capcom;YES;-;NO;-;-
+shangon;Super Hang-On (sitdown/upright, unprotected);1987;Sega;YES;-;NO;-;-
+sharrier;Space Harrier (Rev A, 8751 315-5163A);1985;Sega;YES;-;NO;-;-
+simpsons;The Simpsons (4 Players World, set 1);1991;Konami;YES;-;NO;-;-
+solomon;Solomon's Key (US);1986;Tecmo;YES;-;NO;-;-
+spacedx;Space Invaders DX (US, v2.1);1994;Taito Corporation;YES;-;NO;-;-
+splatter;Splatter House (World, new version (SH3));1988;Namco;YES;-;NO;-;-
+ssriders;Sunset Riders (4 Players ver. EAC);1991;Konami;YES;-;NO;-;-
+strider;Strider (US set 1);1989;Capcom;YES;-;NO;-;-
+strkfgtr;Strike Fighter (World);1991;Sega;YES;-;NO;-;-
+superpac;Super Pac-Man;1982;Namco;YES;-;NO;-;-
+tbowl;Tecmo Bowl (World?);1987;Tecmo;YES;-;NO;-;-
+tetris;Tetris (set 4, Japan, System 16A, FD1094 317-0093);1988;Sega;YES;-;NO;-;-
+tgm2;Tetris the Absolute The Grand Master 2;2000;Arika;YES;-;NO;-;-
+timeplt;Time Pilot;1982;Konami;YES;-;NO;-;-
+tmnt2;Teenage Mutant Ninja Turtles - Turtles in Time (4 Players ver. UAA);1991;Konami;YES;-;NO;-;-
+trackfld;Track & Field;1983;Konami;YES;-;NO;-;-
+wb3;Wonder Boy III - Monster Lair (set 6, World, System 16B, 8751 317-0098);1988;Sega / Westone;YES;-;NO;-;-
+wboy;Wonder Boy (set 1, 315-5177);1986;Sega (Escape License);YES;-;NO;-;-
+wrally;World Rally (Version 1.0, Checksum 0E56);1993;Gaelco;YES;-;NO;-;-
+xmen;X-Men (4 Players ver UBB);1992;Konami;YES;-;NO;-;-

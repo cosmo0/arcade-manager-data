@@ -1,0 +1,34 @@
+{
+    "files": [
+        {
+            "filename": "advancemame.csv",
+            "description": "Games working best on Advance MAME (MAME 0.106)",
+            "types": [ ]
+        },
+        {
+            "filename": "fba.csv",
+            "description": "Games working best on Final Burn Alpha 0.2.97.42",
+            "types": [ ]
+        },
+        {
+            "filename": "mame2003.csv",
+            "description": "Games working best on MAME 2003 (MAME 0.78)",
+            "types": [ ]
+        },
+        {
+            "filename": "classics-advancemame.csv",
+            "description": "Classic games working best on Advance MAME (MAME 0.106)",
+            "types": [ "main" ]
+        },
+        {
+            "filename": "classics-fba.csv",
+            "description": "Classic games working best on Final Burn Alpha 0.2.97.42",
+            "types": [ "main" ]
+        },
+        {
+            "filename": "classics-mame2003.csv",
+            "description": "Classic games working best on MAME 2003 (MAME 0.78)",
+            "types": [ "main" ]
+        }
+    ]
+}
