@@ -1,9 +1,21 @@
 name;description;year;manufacturer;is_parent;romof;is_clone;cloneof;sampleof
 astdelux;Asteroids Deluxe (rev 2);1980;Atari;YES;-;NO;-;-
 asteroid;Asteroids (rev 2);1979;Atari;YES;-;NO;-;-
+aztarac;Aztarac;1983;Centuri;YES;-;NO;-;-
+bzone;Battle Zone (set 1);1980;Atari;YES;-;NO;-;-
+demon;Demon;1982;Rock-ola;YES;-;NO;-;-
+esb;The Empire Strikes Back;1985;Atari Games;YES;-;NO;-;-
+gground;Gain Ground (FD1094 317-0058-03?);1988;Sega;YES;-;NO;-;-
+gravitar;Gravitar (version 3);1982;Atari;YES;-;NO;-;-
+hotrod;Hot Rod (World, 3 Players, Turbo set 1);1988;Sega;YES;-;NO;-;-
 llander;Lunar Lander (rev 2);1979;Atari;YES;-;NO;-;-
 outrun;Out Run (set 3);1986;Sega;YES;-;NO;-;-
 punchout;Punch-Out!!;1984;Nintendo;YES;-;NO;-;-
+redbaron;Red Baron;1980;Atari;YES;-;NO;-;-
+spacduel;Space Duel;1980;Atari;YES;-;NO;-;-
+spcinv95;Space Invaders '95: The Attack Of Lunar Loonies (Ver 2.5O 1995/06/14);1995;Taito Corporation Japan;YES;-;NO;-;-
 starcas;Star Castle (version 3);1980;Cinematronics;YES;-;NO;-;-
+startrek;Star Trek;1982;Sega;YES;-;NO;-;-
+starwars;Star Wars (rev 2);1983;Atari;YES;-;NO;-;-
 tempest;Tempest (rev 3);1980;Atari;YES;-;NO;-;-
 toutrun;Turbo Out Run (set 3, upgrade kit, FD1094 317-0118);1989;Sega;YES;-;NO;-;-
