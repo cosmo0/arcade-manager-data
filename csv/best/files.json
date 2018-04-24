@@ -1,17 +1,17 @@
 {
     "files": [
         {
-            "filename": "advancemame.csv",
+            "filename": "best-advancemame.csv",
             "description": "Games working best on Advance MAME (MAME 0.106)",
             "types": [ ]
         },
         {
-            "filename": "fba.csv",
+            "filename": "best-fba.csv",
             "description": "Games working best on Final Burn Alpha 0.2.97.42",
             "types": [ ]
         },
         {
-            "filename": "mame2003.csv",
+            "filename": "best-mame2003.csv",
             "description": "Games working best on MAME 2003 (MAME 0.78)",
             "types": [ ]
         },
