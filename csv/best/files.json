@@ -1,23 +1,13 @@
 {
     "files": [
         {
-            "filename": "best-advancemame.csv",
-            "description": "Games working best on Advance MAME (MAME 0.106)",
-            "types": [ ]
+            "filename": "classics-all.csv",
+            "description": "About 300 classic and well-known games.",
+            "types": [ "main" ]
         },
         {
-            "filename": "best-fba.csv",
-            "description": "Games working best on Final Burn Alpha 0.2.97.42",
-            "types": [ ]
-        },
-        {
-            "filename": "best-mame2003.csv",
-            "description": "Games working best on MAME 2003 (MAME 0.78)",
-            "types": [ ]
-        },
-        {
-            "filename": "classics-advancemame.csv",
-            "description": "Classic games working best on Advance MAME (MAME 0.106)",
+            "filename": "classics-all-lite.csv",
+            "description": "About 50 classic and well-known games.",
             "types": [ "main" ]
         },
         {
@@ -31,19 +21,29 @@
             "types": [ "main" ]
         },
         {
-            "filename": "classics-all.csv",
-            "description": "About 300 classic and well-known games.",
-            "types": [ "main" ]
-        },
-        {
-            "filename": "classics-all-lite.csv",
-            "description": "About 50 classic and well-known games.",
+            "filename": "classics-advancemame.csv",
+            "description": "Classic games working best on Advance MAME (MAME 0.106)",
             "types": [ "main" ]
         },
         {
             "filename": "neogeo.csv",
             "description": "All NeoGeo games.",
             "types": [ "main" ]
+        },
+        {
+            "filename": "best-advancemame.csv",
+            "description": "Games working best on Advance MAME (MAME 0.106)",
+            "types": [ ]
+        },
+        {
+            "filename": "best-fba.csv",
+            "description": "Games working best on Final Burn Alpha 0.2.97.42",
+            "types": [ ]
+        },
+        {
+            "filename": "best-mame2003.csv",
+            "description": "Games working best on MAME 2003 (MAME 0.78)",
+            "types": [ ]
         }
     ]
 }
