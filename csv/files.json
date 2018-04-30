@@ -1,6 +1,41 @@
 {
     "files": [
         {
+            "filename": "set-classics-lite-analog.csv",
+            "description": "About 50 classic games that can be played with a modern analog gamepad (Playstation, Xbox).",
+            "types": [ "set", "main" ]
+        },
+        {
+            "filename": "set-classics-lite-noanalog.csv",
+            "description": "About 50 classic games that can be played with an old gamepad or arcade stick.",
+            "types": [ "set", "main" ]
+        },
+        {
+            "filename": "set-classics-analog.csv",
+            "description": "About 200 to 300 games that can be played with a modern analog gamepad (Playstation, Xbox).",
+            "types": [ "set", "main" ]
+        },
+        {
+            "filename": "set-classics-noanalog.csv",
+            "description": "About 200 to 300 games that can be played with an old gamepad or arcade stick.",
+            "types": [ "set", "main" ]
+        },
+        {
+            "filename": "set-lite-analog.csv",
+            "description": "All working games, excluding clones and console games, that can be played with a modern analog gamepad (Playstation, Xbox).",
+            "types": [ "set", "main" ]
+        },
+        {
+            "filename": "set-lite-noanalog.csv",
+            "description": "All working games, excluding clones and console games, that can be played with an old gamepad or arcade stick.",
+            "types": [ "set", "main" ]
+        },
+        {
+            "filename": "set-neogeo.csv",
+            "description": "All NeoGeo games.",
+            "types": [ "set", "main" ]
+        },
+        {
             "filename": "controls-alternative.csv",
             "description": "All games having alternative controllers: lightgun, 2 or 3 joysticks, etc.",
             "types": [ "filter", "controls" ]
@@ -96,39 +131,9 @@
             "types": [ "filter" ]
         },
         {
-            "filename": "set-classics-lite-pad.csv",
-            "description": "About 40-50 classic games that can be played with a modern analog gamepad.",
-            "types": [ "set", "main" ]
-        },
-        {
-            "filename": "set-classics-lite-stick.csv",
-            "description": "About 40-50 classic games that can be played with an arcade stick.",
-            "types": [ "set", "main" ]
-        },
-        {
-            "filename": "set-classics-pad.csv",
-            "description": "About 200-250 games that can be played with a modern analog gamepad.",
-            "types": [ "set", "main" ]
-        },
-        {
-            "filename": "set-classics-stick.csv",
-            "description": "About 200-250 games that can be played with an arcade stick.",
-            "types": [ "set", "main" ]
-        },
-        {
             "filename": "set-complete.csv",
             "description": "All arcade games in a romset.",
             "types": [ "set" ]
-        },
-        {
-            "filename": "set-lite-pad.csv",
-            "description": "All working games, excluding clones and console games, that can be played with a modern analog gamepad.",
-            "types": [ "set", "main" ]
-        },
-        {
-            "filename": "set-lite-stick.csv",
-            "description": "All working games, excluding clones and console games, that can be played with an arcade stick.",
-            "types": [ "set", "main" ]
         },
         {
             "filename": "set-noclone-noconsole.csv",
@@ -144,11 +149,6 @@
             "filename": "set-working.csv",
             "description": "All working games.",
             "types": [ "set" ]
-        },
-        {
-            "filename": "set-neogeo.csv",
-            "description": "All NeoGeo games.",
-            "types": [ "set", "main" ]
         },
         {
             "filename": "set-noclone-nobootleg.csv",
