@@ -29,6 +29,16 @@
             "filename": "classics-mame2003.csv",
             "description": "Classic games working best on MAME 2003 (MAME 0.78)",
             "types": [ "main" ]
+        },
+        {
+            "filename": "classics-all.csv",
+            "description": "About 300 classic and well-known games.",
+            "types": [ "main" ]
+        },
+        {
+            "filename": "classics-all-lite.csv",
+            "description": "About 50 classic and well-known games.",
+            "types": [ "main" ]
         }
     ]
 }
