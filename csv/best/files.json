@@ -12,7 +12,7 @@
         },
         {
             "filename": "classics-fba.csv",
-            "description": "Classic games working best on Final Burn Alpha 0.2.97.42",
+            "description": "Classic games working best on Final Burn Alpha 2017 (0.2.97.42)",
             "types": [ "main" ]
         },
         {
@@ -37,12 +37,17 @@
         },
         {
             "filename": "best-fba.csv",
-            "description": "Games working best on Final Burn Alpha 0.2.97.42",
+            "description": "Games working best on Final Burn Alpha 2017 (0.2.97.42)",
             "types": [ ]
         },
         {
             "filename": "best-mame2003.csv",
             "description": "Games working best on MAME 2003 (MAME 0.78)",
+            "types": [ ]
+        },
+        {
+            "filename": "best-mame2010.csv",
+            "description": "Games working best on MAME 2010 (MAME 0.139)",
             "types": [ ]
         }
     ]
