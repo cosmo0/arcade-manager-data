@@ -39,6 +39,11 @@
             "filename": "classics-all-lite.csv",
             "description": "About 50 classic and well-known games.",
             "types": [ "main" ]
+        },
+        {
+            "filename": "neogeo.csv",
+            "description": "All NeoGeo games.",
+            "types": [ "main" ]
         }
     ]
 }
