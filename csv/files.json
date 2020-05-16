@@ -1,6 +1,21 @@
 {
     "files": [
         {
+            "filename": "fbneo-arcade-only-noclone.csv",
+            "description": "All arcade games excluding clones.",
+            "types": [ "set", "main" ]
+        },
+        {
+            "filename": "fbneo-neogeo-mvs.csv",
+            "description": "All Neo-Geo MVS games officialy released (148 games).",
+            "types": [ "set", "main" ]
+        },
+        {
+            "filename": "fbneo-neogeo-aes.csv",
+            "description": "All Neo-Geo AES games officialy released (117 games).",
+            "types": [ "set", "main" ]
+        },
+        {
             "filename": "set-classics-lite-analog.csv",
             "description": "About 50 classic games that can be played with a modern analog gamepad (Playstation, Xbox).",
             "types": [ "set", "main" ]
