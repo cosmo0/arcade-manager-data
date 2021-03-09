@@ -1,6 +1,6 @@
-# Retropie Arcade Manager data files
+# Arcade Manager data files
 
-Repository for the [Retropie Arcade Manager](https://github.com/cosmo0/retropie-arcade-manager) application data.
+Repository for the [Arcade Manager](https://github.com/cosmo0/retropie-arcade-manager) application data.
 
 ## Contents
 
