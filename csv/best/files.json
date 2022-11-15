@@ -17,7 +17,7 @@
         },
         {
             "filename": "neogeo.csv",
-            "description": "All NeoGeo games.",
+            "description": "All NeoGeo games (around 150 games).",
             "types": [ "main" ]
         },
         {
