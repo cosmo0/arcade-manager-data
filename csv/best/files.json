@@ -2,27 +2,17 @@
     "files": [
         {
             "filename": "classics-all.csv",
-            "description": "About 300 classic and well-known games.",
+            "description": "About 300 classic and well-known games (MAME 2003).",
             "types": [ "main" ]
         },
         {
             "filename": "classics-all-lite.csv",
-            "description": "About 50 classic and well-known games.",
+            "description": "About 50 classic and well-known games (MAME 2003).",
             "types": [ "main" ]
         },
         {
-            "filename": "classics-fba.csv",
-            "description": "Classic games working best on Final Burn Alpha 2017 (0.2.97.42)",
-            "types": [ "main" ]
-        },
-        {
-            "filename": "classics-mame2003.csv",
-            "description": "Classic games working best on MAME 2003 (MAME 0.78)",
-            "types": [ "main" ]
-        },
-        {
-            "filename": "classics-advancemame.csv",
-            "description": "Classic games working best on Advance MAME (MAME 0.106)",
+            "filename": "classics-fbneo.csv",
+            "description": "About 175 classic games (FinalBurn Neo)",
             "types": [ "main" ]
         },
         {
@@ -31,13 +21,8 @@
             "types": [ "main" ]
         },
         {
-            "filename": "best-advancemame.csv",
-            "description": "Games working best on Advance MAME (MAME 0.106)",
-            "types": [ ]
-        },
-        {
-            "filename": "best-fba.csv",
-            "description": "Games working best on Final Burn Alpha 2017 (0.2.97.42)",
+            "filename": "best-fbneo.csv",
+            "description": "Games working best on FinalBurn Neo",
             "types": [ ]
         },
         {
