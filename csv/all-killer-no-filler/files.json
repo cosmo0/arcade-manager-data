@@ -1,0 +1,54 @@
+{
+    "files": [
+        {
+            "filename": "classics-horizontal.csv",
+            "description": "Old school classics, horizontal screen (around 30 games).",
+            "types": [ "main" ]
+        },
+        {
+            "filename": "classics-vertical.csv",
+            "description": "Old school classics, vertical screen (around 60 games).",
+            "types": [ "main" ]
+        },
+        {
+            "filename": "shmups-horizontal.csv",
+            "description": "Shmups/shooting games, horizontal screen (around 90 games)",
+            "types": [ "main" ]
+        },
+        {
+            "filename": "shmups-vertical.csv",
+            "description": "Shmups/shooting games, vertical screen (around 90 games)",
+            "types": [ "main" ]
+        },
+        {
+            "filename": "fighting.csv",
+            "description": "Fighting/versus fighting (around 80 games)",
+            "types": [ "main" ]
+        },
+        {
+            "filename": "beat-hack.csv",
+            "description": "Beat'em up and hack and slash (around 100 games).",
+            "types": [ "main" ]
+        },
+        {
+            "filename": "run-and-gun.csv.csv",
+            "description": "Run and gun (around 60 games).",
+            "types": [ "main" ]
+        },
+        {
+            "filename": "platform.csv",
+            "description": "Platformers (around 75 games).",
+            "types": [ "main" ]
+        },
+        {
+            "filename": "puzzle.csv",
+            "description": "Puzzle (around 55 games).",
+            "types": [ "main" ]
+        },
+        {
+            "filename": "sports.csv",
+            "description": "Sport (around 80 games).",
+            "types": [ "main" ]
+        }
+    ]
+}
