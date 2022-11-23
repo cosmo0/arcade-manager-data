@@ -1,6 +1,11 @@
 {
     "files": [
         {
+            "filename": "all-killer-no-filler.csv",
+            "description": "All the games in the 'All Killer, No Filler' list from forum.arcadecontrols.com.",
+            "types": [ "set", "main" ]
+        },
+        {
             "filename": "classics-horizontal.csv",
             "description": "Old school classics, horizontal screen (around 30 games).",
             "types": [ "main" ]
