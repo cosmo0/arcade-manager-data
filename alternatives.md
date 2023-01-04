@@ -1,9 +1,10 @@
 # Arcade alternatives
 
-## Emulators alternatives
+Here is a huge and detailed list of "best" emulators for each system that MAME also emulates (or not) : [Non-MAME](http://nonmame.retrogames.com/)
 
-Some games don't work well in MAME, or not at all, especially for more recent systems.  
-Here are a few other emulators for those.
+## Arcade alternatives
+
+MAME does not emulate well 3D games after the PS1 era. Here is a list of good games and their preferred emulators.
 
 | Name                                   | Platform     | Genre       | Emulator         | Best |
 |----------------------------------------|--------------|-------------|------------------|------|
